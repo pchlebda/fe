@@ -1,0 +1,15 @@
+{
+  "author": "Piotr Chlebda <piotrekchlebda@gmail.com>",
+  "name": "repo",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pchlebda/fe.git"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
